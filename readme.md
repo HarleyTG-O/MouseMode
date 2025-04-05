@@ -1,6 +1,6 @@
 <!-- Logo -->
 <img src="https://github.com/user-attachments/assets/55e92482-3ba6-47f6-99b2-bcdbeb65b643" alt="logo" width="100"/>
-# MouseMode
+## MouseMode
 
 **MouseMode** is a unique, fun application that merges controller functionality with traditional mouse control. It allows you to use your game controller to navigate and control your computer, making it perfect for gamers or anyone looking for a novel way to interact with their system.
 
