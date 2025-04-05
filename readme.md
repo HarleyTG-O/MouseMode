@@ -14,3 +14,20 @@
 
 ### Running from Source
 https://github.com/HarleyTG-O/MouseMode/releases
+
+<!-- Logo -->
+<img src="https://github.com/user-attachments/assets/55e92482-3ba6-47f6-99b2-bcdbeb65b643" alt="logo" width="100"/>
+
+### Patch Notes  
+#v0.0.1
+**Basic App Setup** ✅
+
+---
+
+## 🎮 Controllers Supported
+
+| Controller      | Supported |
+|------------------|-----------|
+| Xbox             | ❌        |
+| PlayStation      | ✅        |
+| Nintendo Switch  | ❌        |
